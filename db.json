@@ -1,0 +1,27 @@
+{
+  "pasien": [
+  {
+    "id":  1,
+"name_pasien": "Agus",
+"jenis_kelamin": "Laki-Laki",
+"nik": "12345",
+"phone": "445566",
+"alamat": "jln mangga no 45",
+"agama": "islam",
+"pendidikan": "sma",
+"golongan_darah":"a"
+},
+{
+"id": 2,
+"name_pasien": "Ceri",
+"jenis_kelamin": "Perempuan",
+"nik": "6789",
+"phone": "55667",
+"alamat": "jln jeruk no 67",
+"agama": "kristen",
+"pendidikan": "s3",
+"golongan_darah":"o"
+}
+
+  ]
+}   
