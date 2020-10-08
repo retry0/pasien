@@ -11,7 +11,10 @@
                 "region": "CA",
                 "dob": "01/10/1993",
                 "phone": "445566",
-                "alamat": "jln mangga no 45"
+                "alamat": "jln mangga no 45",
+                "agama": "islam",
+		"pendidikan": "sma",
+		"golongan_darah":"a"
             },
             {
                 "id": 2,
@@ -23,7 +26,10 @@
                 "region": "CA",
                 "dob": "01/10/1992",
                 "phone": "55667",
-                "alamat": "jln jeruk no 67"
+                "alamat": "jln jeruk no 67",
+                "agama": "kristen",
+		"pendidikan": "s3",
+		"golongan_darah":"o"
             },
             {
                 "id": 3,
@@ -35,7 +41,10 @@
                 "employeeCode": "E3",
                 "region": "CA",
                 "phone": "445566",
-                "alamat": "jln jeruk no 68"
+                "alamat": "jln jeruk no 68",
+                "agama": "buddha",
+		"pendidikan": "s2",
+		"golongan_darah":"ab"
             }
         ]
     ]
